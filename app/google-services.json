@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011024877910",
+    "project_id": "proyectoham",
+    "storage_bucket": "proyectoham.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011024877910:android:cde2f697019a9cae58def7",
+        "android_client_info": {
+          "package_name": "edu.pe.idat.proyectham"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX32RTB_uivw0hOX0FLxRocQTOlnXGbdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
